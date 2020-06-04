@@ -49,16 +49,14 @@ h2{
   font-weight: 400;
   padding-bottom: 10px;
 }
-
-
-.bottom-cloud{
-  position: absolute;
-  bottom:300px;
-  left:300px;
-}
 .top-cloud{
-  position: relative;
-  left:400px;
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+.bottom-cloud{
+  left: 250px;
+  position: absolute;
 }
 .intro{
   width: 30%;
